@@ -1,0 +1,27 @@
+{
+  "name": "@euriklis/data_structures",
+  "version": "1.0.0",
+  "description": "A package for operating with the stack, queue, heap and tree structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VelislavKarastoychev/euriklis-data_structures.git"
+  },
+  "keywords": [
+    "Heaps",
+    "Stack",
+    "Tree",
+    "AVL-trees",
+    "BST",
+    "Queues"
+  ],
+  "author": "Velislav S. Karastoychev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VelislavKarastoychev/euriklis-data_structures/issues"
+  },
+  "homepage": "https://github.com/VelislavKarastoychev/euriklis-data_structures#readme"
+}
