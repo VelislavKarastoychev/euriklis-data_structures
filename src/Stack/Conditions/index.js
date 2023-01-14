@@ -1,3 +1,3 @@
 'use strict';
-export * from '../../Conditions/index.js';
+export * from '@euriklis/basic-tests';
 export { default as IsCorrectStackType } from './IsCorrectStackType.js';
