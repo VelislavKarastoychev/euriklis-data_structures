@@ -2,6 +2,7 @@
   "name": "@euriklis/data_structures",
   "version": "1.0.0",
   "description": "A package for operating with the stack, queue, heap and tree structures.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +24,15 @@
   "bugs": {
     "url": "https://github.com/VelislavKarastoychev/euriklis-data_structures/issues"
   },
-  "homepage": "https://github.com/VelislavKarastoychev/euriklis-data_structures#readme"
+  "homepage": "https://github.com/VelislavKarastoychev/euriklis-data_structures#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.4",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "dependencies": {
+    "@euriklis/validator": "^3.0.0"
+  }
 }
